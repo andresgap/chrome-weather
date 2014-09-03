@@ -1,0 +1,25 @@
+body {
+  width: 200px;
+  height: 200px;
+}
+
+.title {
+  font-size: 20px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+#result-box {
+  margin-top: 20px;
+}
+
+#result-place {
+  font-size: 20px;
+  text-align: center;
+}
+
+#result-temp-box {
+  font-weight: bold;
+  font-size: 50px;
+  text-align: center;
+}
