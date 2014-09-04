@@ -2,6 +2,7 @@
   "name": "Current Temperature",
   "description": "Find current temperature around the world",
   "version": "1.0",
+  "author": "Andres Hernandez",
   "manifest_version": 2,
   "icons": {
     "128": "skin/images/icon128.png"
@@ -21,9 +22,6 @@
     ]
   },
   "permissions": [
-    "http://api.openweathermap.org/*",
-    "http://*/*",
-    "https://*/*",
-    "tabs"
+    "http://api.openweathermap.org/*"
   ]
 }
